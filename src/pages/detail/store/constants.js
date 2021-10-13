@@ -1,0 +1,1 @@
+export const CHANNGE_DETAIL = 'detail/CHANNGE_DETAIL'
